@@ -1,1 +1,1 @@
-# Colab_for-detectron2_train
+# Colab for detectron2 training
